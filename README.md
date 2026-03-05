@@ -1,11 +1,20 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Программа для объединения двух строк по заданному правилу `(вариант 37)`: Заданы две одинаковые по длине строки. Построить новую строку, в которой 
+на нечётных местах расположены элементы первой строки, а на чётных – элементы второй строки.
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+./lab2-task1 "строка1" "строка2"
+
+Пример запуска:
+./lab2-task1 "abc" "123"
+Результат: a1b2c3
+
+**{Жулего Алина, 10а группа}**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Проект создан из шаблона для лабораторной работы 2.
+Компиляция выполняется автоматически при нажатии кнопки Run в Repl.it
+или командой: gcc -o lab2-task1 src/main.c && ./lab2-task1
