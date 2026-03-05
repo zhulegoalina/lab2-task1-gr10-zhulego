@@ -1,2 +1,8 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+run = "gcc -o lab2-task1 /home/runner/workspace/src/main.c && ./lab2-task1"
+
+[nix]
+channel = "stable-25_05"
+
+[agent]
+expertMode = true
