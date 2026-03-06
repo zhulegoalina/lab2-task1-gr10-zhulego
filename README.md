@@ -6,22 +6,23 @@
 3. Структуры данных (CONTACT)
 4. Работа с файлами (обработка данных о государствах)
 
-# Usage
-**Задание 1:** ./lab2-task1 "abc" "123"
-**Задание 3:** cd tpmp-lab2-task3 && make && ./bin/lab2-task3
-**Задание 4:** cd tpmp-lab2-task4 && make && ./bin/lab2-task4
+# Author
+Жулего Алина, 10а группа
 
-# Building
-**Задание 1:** gcc -o lab2-task1 src/main.c
-**Задание 3:** cd tpmp-lab2-task3 && make
-**Задание 4:** cd tpmp-lab2-task4 && make
+## Usage
+- **Задание 1:** `./lab2-task1 "строка1" "строка2"`
+- **Задание 3:** `cd tpmp-lab2-task3 && make && ./bin/lab2-task3`
+- **Задание 4:** `cd tpmp-lab2-task4 && make && ./bin/lab2-task4`
 
-# Modules
-- [tpmp-lab2-task2](https://github.com/zhulegoalina/tpmp-lab2-task2) — задание 2
-- [tpmp-lab2-task3](tpmp-lab2-task3/) — задание 3 (submodule)
-- [tpmp-lab2-task4](tpmp-lab2-task4/) — задание 4 (файлы)
+## Modules
+### tpmp-lab2-task3
+Репозиторий задания 3 (структура CONTACT). Сборка: `cd tpmp-lab2-task3 && make`
+### tpmp-lab2-task4
+Репозиторий задания 4 (файлы). Сборка: `cd tpmp-lab2-task4 && make`
 
-# Additional Notes
-**Отчет:** [Google Docs](https://docs.google.com/document/d/1emYKPcZ5JWXKt23e36in7Pr3rx8TU48U86igpU4s/edit?usp=sharing)
-
-**Автор:** Жулего Алина, 10а группа
+## Additional Notes
+- Отчет: [Google Docs](https://docs.google.com/document/d/1emYKPcZ5JWXKt23e36)
+- Задание 1: [lab2-task1-gr10-zhulego](https://github.com/zhulegoalina/lab2-task1-gr10-zhulego)
+- Задание 2: [tpmp-lab2-task2](https://github.com/zhulegoalina/tpmp-lab2-task2)
+- Задание 3: [tpmp-lab2-task3](https://github.com/zhulegoalina/tpmp-lab2-task3)
+- Задание 4: [tpmp-lab2-task4](https://github.com/zhulegoalina/tpmp-lab2-task4)
