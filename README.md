@@ -7,14 +7,14 @@
 4. Работа с файлами (обработка данных о государствах)
 
 # Usage
-**Задание 1:** ./lab2-task1 "abc" "123"
-**Задание 3:** cd tpmp-lab2-task3 && make && ./bin/lab2-task3
-**Задание 4:** cd tpmp-lab2-task4 && make && ./bin/lab2-task4
+**Задание 1:** `./lab2-task1 "abc" "123"`
+**Задание 3:** `cd tpmp-lab2-task3 && make && ./bin/lab2-task3`
+**Задание 4:** `cd tpmp-lab2-task4 && make && ./bin/lab2-task4`
 
 # Building
-**Задание 1:** gcc -o lab2-task1 src/main.c
-**Задание 3:** cd tpmp-lab2-task3 && make
-**Задание 4:** cd tpmp-lab2-task4 && make
+**Задание 1:** `gcc -o lab2-task1 src/main.c`
+**Задание 3:** `cd tpmp-lab2-task3 && make`
+**Задание 4:** `cd tpmp-lab2-task4 && make`
 
 # Modules
 - [tpmp-lab2-task2](https://github.com/zhulegoalina/tpmp-lab2-task2) — задание 2
@@ -22,6 +22,6 @@
 - [tpmp-lab2-task4](tpmp-lab2-task4/) — задание 4 (файлы)
 
 # Additional Notes
-**Отчет:** [Google Docs](https://docs.google.com/document/d/1emYKPcZ5JWXKt23e36in7Pr3rx8TU48U86igpU4s/edit?usp=sharing)
+**Отчет:** [Google Docs](https://docs.google.com/document/d/1emYKPcZ5r5JWXKt23e36in7kPr3rx8TU48U86igpU4s/edit?usp=sharing)
 
 **Автор:** Жулего Алина, 10а группа
