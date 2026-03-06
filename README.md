@@ -10,14 +10,14 @@
 Жулего Алина, 10а группа
 
 # Usage
-**Задание 1:** `./lab2-task1 "abc" "123"`
-**Задание 3:** `cd tpmp-lab2-task3 && make && ./bin/lab2-task3`
-**Задание 4:** `cd tpmp-lab2-task4 && make && ./bin/lab2-task4`
+- **Задание 1:** `./lab2-task1 "abc" "123"`
+- **Задание 3:** `cd tpmp-lab2-task3 && make && ./bin/lab2-task3`
+- **Задание 4:** `cd tpmp-lab2-task4 && make && ./bin/lab2-task4`
 
 # Building
-**Задание 1:** `gcc -o lab2-task1 src/main.c`
-**Задание 3:** `cd tpmp-lab2-task3 && make`
-**Задание 4:** `cd tpmp-lab2-task4 && make`
+- **Задание 1:** `gcc -o lab2-task1 src/main.c`
+- **Задание 3:** `cd tpmp-lab2-task3 && make`
+- **Задание 4:** `cd tpmp-lab2-task4 && make`
 
 ## Modules
 ### tpmp-lab2-task3
